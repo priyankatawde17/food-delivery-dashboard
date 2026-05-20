@@ -4,6 +4,8 @@ Food Delivery Excel Dashboard analyzing 231 orders across Mumbai, Delhi, Bangalo
 
 An Excel-based data analysis and dashboard project built on a real-world food delivery dataset.
 
+![Dashboard](food%20delivery%20dashboard%20ss.png)
+
 📊 What's Inside
 
 - **Raw Data Cleaning** – Messy order data cleaned and structured for analysis
